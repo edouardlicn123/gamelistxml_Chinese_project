@@ -1,0 +1,9 @@
+rm ~/roms/mame/gamelist.xml
+rm ~/roms/fbneo/gamelist.xml
+rm ~/roms/arcade/gamelist.xml   
+rm ~/roms/atomiswave/gamelist.xml 
+rm ~/roms/naomi/gamelist.xml     
+rm ~/roms/cps1/gamelist.xml   
+rm ~/roms/cps2/gamelist.xml 
+rm ~/roms/cps3/gamelist.xml 
+rm ~/roms/neogeo/gamelist.xml 
