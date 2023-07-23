@@ -42,9 +42,5 @@ gamelist.xml 中文 汉化
 3. 隐藏BIOS文件
 
 # 感谢
-
 功夫小熊猫
-
-问号哥
-
 原MAME PLUS历史文件制作参与的各位

@@ -1,6 +1,3 @@
-
-
-
 ln ./Arcade_gamelist.xml ~/roms/mame/gamelist.xml
 ln ./Arcade_gamelist.xml ~/roms/fbneo/gamelist.xml
 ln ./Arcade_gamelist.xml ~/roms/arcade/gamelist.xml
